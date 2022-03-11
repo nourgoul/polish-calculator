@@ -20,6 +20,8 @@ Reverse Polish notation (RPN), also known as Polish postfix notation or simply p
 
 # Instructions
 
-Read in input after running (ex. <code>1 2 3 4 5 + + + +</code>), enter, then end the read-in loop with **^D**.
+Read in input after running (ex. <code>-2400 -12 -2 / / -4 / 1 /</code>), enter, then end the read-in loop with **^D**.
 
 # Demo
+
+![Inputting the string "1 2 3 4 5 + + + +" which return 15.](https://user-images.githubusercontent.com/72585332/157784873-84f5ef1f-23d0-41a6-aa3c-0ec5d4ea22f9.gif)
