@@ -24,4 +24,4 @@ Read in input after running (ex. <code>-2400 -12 -2 / / -4 / 1 /</code>), enter,
 
 # Demo
 
-![Inputting the string "1 2 3 4 5 + + + +" which return 15.](https://user-images.githubusercontent.com/72585332/157784873-84f5ef1f-23d0-41a6-aa3c-0ec5d4ea22f9.gif)
+![Inputting the string "1 2 3 4 5 + + + +" which return 15.](https://i.imgur.com/MRtq7zc.gif)
